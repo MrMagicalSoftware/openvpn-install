@@ -10,7 +10,7 @@ docker run --privileged -d --name openvpn-as --cap-add=NET_ADMIN -p 943:943 -p 8
 docker logs openvpn-as | grep 'Auto-generated pass'
 ```
 
-Open a web browser and navigate to https://DNSorIP:943/admin
-Login with the username openvpn and the Auto-generated password located earlier
-Now Active the licence
-Create a new account and import the profile
+Open a web browser and navigate to https://DNSorIP:943/admin <br>
+Login with the username openvpn and the Auto-generated password located earlier <br>
+Now Active the licence <br>
+Create a new account and import the profile <br>
