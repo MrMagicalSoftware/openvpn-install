@@ -15,7 +15,7 @@ Login with the username openvpn and the Auto-generated password located earlier 
 Now Active the licence <br>
 Create a new account and import the profile <br>
 
-# fIX TUN ERROR
+# FIX TUN ERROR
 _________________________
 Verifica che il dispositivo TUN esista:
 Assicurati che il dispositivo TUN esista nel tuo host. Puoi verificarlo con:
