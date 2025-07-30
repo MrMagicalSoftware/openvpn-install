@@ -27,7 +27,7 @@ curl -O https://raw.githubusercontent.com/angristan/openvpn-install/master/openv
 
 
 ```bash
-curl -O https://github.com/MrMagicalSoftware/openvpn-install/blob/master/openvpn-install.sh
+curl -O https://raw.githubusercontent.com/angristan/openvpn-install/master/openvpn-install.sh
 chmod +x openvpn-install.sh
 ```
 
